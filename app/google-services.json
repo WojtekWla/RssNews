@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "440321737971",
+    "project_id": "rssnews-78eb7",
+    "storage_bucket": "rssnews-78eb7.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:440321737971:android:32861e4ab58306d2a7e386",
+        "android_client_info": {
+          "package_name": "com.example.rssnews"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDcxiKB_gkv7cGhUqn_gTGTYCr8Mrq7mvg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

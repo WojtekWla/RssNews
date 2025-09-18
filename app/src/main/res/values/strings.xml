@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">RssNews</string>
+    <string name="news_image">news image</string>
+    <string name="news">Rss news</string>
+    <string name="navigation">navigation</string>
+    <string name="web_authentication">440321737971-0t7ddm8ltf3vnqpnj2cbrjhrb8c92grd.apps.googleusercontent.com</string>
+    <string name="successfully_logged_in">User successfully logged in</string>
+    <string name="failed_to_log_in">Couldn\'t authenticate user</string>
+    <string name="failed_to_register">Couldn\'t register user\n%s</string>
+    <string name="newsMain">News</string>
+    <string name="newsDetails">News Details</string>
+    <string name="go_back_home">go back home</string>
+    <string name="favoriteNews">Favorite News</string>
+    <string name="go_back_authenticate">navigate back to authentication</string>
+    <string name="register">Register</string>
+    <string name="login">Login</string>
+    <string name="successfully_registered">Account successfully created</string>
+    <string name="sign_up">Sign up</string>
+    <string name="password">Password</string>
+    <string name="email">Email</string>
+</resources>
